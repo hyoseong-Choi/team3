@@ -1,2 +1,7 @@
-package com.example.team3.service;public class CommentaryService {
+package com.example.team3.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CommentaryService {
 }
